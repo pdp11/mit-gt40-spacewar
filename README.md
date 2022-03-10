@@ -11,6 +11,12 @@ script called `build.do`, a disk image with sources and binaries, a
 transcript of the build process, and the `.LDA` absolute loader output
 files.
 
+The game uses facilities provided by "GTROS", the GT40 Trivial
+Operating System, which must be resident in memory when Spacewar is
+running.  A SIMH script for running the game is in the `run`
+directory.  Currently the emulator executes the program too fast to be
+useful.
+
 The AI lab working papers 64, 165, and 166 describe the environment in
 which this game was greated.
 
