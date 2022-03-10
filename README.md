@@ -11,6 +11,9 @@ script called `build.do`, a disk image with sources and binaries, a
 transcript of the build process, and the `.LDA` absolute loader output
 files.
 
+The AI lab working papers 64, 165, and 166 describe the environment in
+which this game was greated.
+
 This is a screenshot of the game running on Ian Schofield's [GT40
 emulator](https://github.com/Isysxp/GT40):
 
